@@ -21,3 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('proyects.urls'))
 ]
+
+#Daniel Zuñiga 21.869.365-2 y Valentina Moreno 21.002.445-K
